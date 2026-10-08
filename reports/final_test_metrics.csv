@@ -1,0 +1,6 @@
+metric,value
+Hit Rate@10,0.056386455449139845
+MRR@10,0.024992583502467303
+NDCG@10,0.03233020968836342
+Collaborative target availability,0.9973786936589352
+Recommendation catalogue coverage,0.9704514363885088

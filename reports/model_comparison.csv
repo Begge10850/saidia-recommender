@@ -1,0 +1,5 @@
+model,evaluation_split,hit_rate_at_10,mrr_at_10,ndcg_at_10,catalogue_coverage
+Popularity baseline,validation,0.03065,0.011022,0.015515,0.000711
+Collaborative + popularity fallback,validation,0.052994,0.023664,0.030525,0.97571
+Hybrid 70/30,validation,0.05953,0.026575,0.034275,0.972562
+Hybrid 70/30,test,0.056386,0.024993,0.03233,0.970451

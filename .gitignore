@@ -4,3 +4,7 @@ data/processed/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# Local Streamlit skill installations
+.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
