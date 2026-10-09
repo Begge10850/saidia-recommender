@@ -2,6 +2,8 @@
 
 An explainable hybrid recommender built from the Amazon Reviews 2023 Video Games dataset. Saidia lets visitors browse a product catalogue, explore behavioural and content-based neighbours, build a temporary likes profile, and receive ten personalized recommendations.
 
+[**Launch the live Streamlit application →**](https://saidia-game-recommender.streamlit.app/)
+
 The project combines collaborative item similarity, TF-IDF product similarity, and a popularity fallback. Model selection uses chronological validation data, while final performance is reported on a later untouched test interaction for each eligible user.
 
 ![Saidia product catalogue](docs/screenshots/catalogue.png)
