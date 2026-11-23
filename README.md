@@ -1,5 +1,7 @@
 # Saidia Game Recommender
 
+[**Read the concise portfolio case study →**](https://trevaogwang.com/projects/saidia-game-recommender)
+
 An explainable hybrid recommender built from the Amazon Reviews 2023 Video Games dataset. Saidia lets visitors browse a product catalogue, explore behavioural and content-based neighbours, build a temporary likes profile, and receive ten personalized recommendations.
 
 [**Launch the live Streamlit application →**](https://saidia-game-recommender.streamlit.app/)
